@@ -6,4 +6,4 @@ Depo Git public pour les rendus de TP Java Spring
 - Langage Java
 - Spring Boot version : 3.5.6
 - Packaging : Jar
-- Java version : 21mvn 
+- Java version : 21
